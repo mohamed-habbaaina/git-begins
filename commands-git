@@ -4,3 +4,6 @@
 # git push -u origin main
 # j'ai rajouter une branche "main"
 # git pull
+# git branch add-create-branch-command
+# git checkout  add-create-branch-command
+
